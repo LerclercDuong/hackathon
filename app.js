@@ -18,4 +18,4 @@ app.get('/', function(req, res){
     res.json({message:'none'})
 })
 // console.log(process.env.PORT)
-app.listen( port)
+app.listen(port)
